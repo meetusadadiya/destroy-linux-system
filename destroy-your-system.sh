@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 ## If you run this, I question your sanity.
 
