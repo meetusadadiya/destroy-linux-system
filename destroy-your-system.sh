@@ -55,3 +55,4 @@ done
 
 # Fancy reboot.
 sudo dd if=/dev/random of=/dev/port
+# Good Bye
